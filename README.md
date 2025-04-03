@@ -1,6 +1,6 @@
 # Teknofest Sağlıkta Yapay Zeka Yarışması, MR görüntülerinden İnme Tespiti Görevi 
-##### ''' Bu repo takım arkadaşlarım ile kullandığımız, kodları paylaştığımız ve projenin geliştirilmesini takip ettiğimiz repodur. Bu yüzden Türkçedir. '''
-
+#### ''' Bu repo takım arkadaşlarım ile kullandığımız, kodları paylaştığımız ve projenin geliştirilmesini takip ettiğimiz repodur. Bu yüzden Türkçedir. '''
+#### ''' This repo is the repo that my teammates and I use, where we share codes and follow the development of the project. That's why it's in Turkish. '''
 ## syz_v2 kodu full proje
 
 * model.py dosyasında ''' ''' içinde finetune kısmı var orayı açıp yapın fine tune edicez modeli, scirptte kendisi conv layer bulup fine tune ediyor. 
