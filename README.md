@@ -1,4 +1,6 @@
-# syz_v2 kodu full proje
+# Teknofest Sağlıkta Yapay Zeka Yarışması, MR görüntülerinden İnme Tespiti
+
+## syz_v2 kodu full proje
 
 * model.py dosyasında ''' ''' içinde finetune kısmı var orayı açıp yapın fine tune edicez modeli, scirptte kendisi conv layer bulup fine tune ediyor. 
 * bu versiyon colabde çalışmaya uygun değil localde çalışır ve belirlediğiniz pathlere gider 
