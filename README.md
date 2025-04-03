@@ -1,5 +1,5 @@
-# Teknofest Sağlıkta Yapay Zeka Yarışması, MR görüntülerinden İnme Tespiti Görevi
-* Bu repo takım arkadaşlarım ile kullandığımız, kodları paylaştığımız ve projenin geliştirilmesini takip ettiğimiz repodur. Bu yüzden Türkçedir. *
+# Teknofest Sağlıkta Yapay Zeka Yarışması, MR görüntülerinden İnme Tespiti Görevi 
+##### ''' Bu repo takım arkadaşlarım ile kullandığımız, kodları paylaştığımız ve projenin geliştirilmesini takip ettiğimiz repodur. Bu yüzden Türkçedir. '''
 
 ## syz_v2 kodu full proje
 
